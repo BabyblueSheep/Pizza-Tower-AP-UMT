@@ -1,0 +1,8 @@
+@@ -209,16 +209,57 @@
+  0, 15%5D,
++ %5B%22ap_blue%22, 1, 16%5D, %5B%22ap_anton%22, 1, 17%5D,
+  %5B%22funny
+@@ -613,16 +613,75 @@
+ 2, 4273%5D
++, %5B%22ap_color%22, 1, 12, asset_get_index(%22spr_peppatternap1%22)%5D
+ %5D%0Aini_op

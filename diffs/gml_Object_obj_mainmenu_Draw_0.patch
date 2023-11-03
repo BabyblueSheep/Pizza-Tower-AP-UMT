@@ -1,0 +1,7 @@
+@@ -2800,16 +2800,134 @@
+ file_y)%0A
++var apconnect_x = 20%0Avar apconnect_y = 449%0Adraw_sprite(asset_get_index(%22spr_apconnect%22), 0, apconnect_x, apconnect_y)%0A
+ var dal 
+@@ -3108,9 +3108,8 @@
+ alpha(1)
+-%0A

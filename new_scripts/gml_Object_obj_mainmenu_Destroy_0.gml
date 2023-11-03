@@ -1,0 +1,5 @@
+ini_open_from_string(obj_savesystem.ini_str_options)
+ini_write_string("AP_Misc", "ip", global.ap_ip)
+ini_write_string("AP_Misc", "name", global.ap_name)
+ini_write_string("AP_Misc", "password", global.ap_pass)
+ini_close()

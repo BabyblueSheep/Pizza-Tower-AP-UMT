@@ -1,0 +1,3 @@
+@@ -638,8 +638,258 @@
+ input()%0A
++connectselect = 0%0Aini_open_from_string(obj_savesystem.ini_str_options)%0Aglobal.ap_ip = ini_read_string(%22AP_Misc%22, %22ip%22, %22%22)%0Aglobal.ap_name = ini_read_string(%22AP_Misc%22, %22name%22, %22%22)%0Aglobal.ap_pass = ini_read_string(%22AP_Misc%22, %22password%22, %22%22)%0Aini_close()
