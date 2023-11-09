@@ -7,4 +7,5 @@ uuh ill make a proper readme later. heres how to set the mod up
       - For `restore_diffs.py`, select the folder with the original code (by extracting the `data.win`), and then select the folder with the patch files. This should generate the modified code in a folder called `code`.
       - For `create_diffs.py`, select the folder with the original code, and then select the folder with the modified code. This should create patch files for modified code. Use this when publishing/sharing this mod to avoid potential legal issues.
 5. You should be done now. Save the `data.win` and run the game through the [YYToolkit](https://github.com/Archie-osu/YYToolkit) [mod](https://github.com/BabyblueSheep/Pizza-Tower-AP) *(i might make both mods a monorepo in the future, not sure)*.
+6. 
 Also add the `english.txt` to the game's language file, or else the game will crash in some scenarios.
