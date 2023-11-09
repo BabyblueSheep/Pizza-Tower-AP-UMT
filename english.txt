@@ -1,0 +1,21 @@
+# -----------
+#  ARCHIPELAGO
+# -----------
+# ----- MENU ------
+menu_aptitle = "ARCHIPELAGO"
+menu_ip = "ADDRESS"
+menu_ipinput = "Enter the room address"
+menu_name = "NAME"
+menu_nameinput = "Enter the player name"
+menu_pass = "PASSWORD"
+menu_passinput = "Enter the room password (if it has one)"
+menu_connect = "CONNECT"
+menu_disconnect = "DISCONNECT"
+menu_connection_progress = "CONNECTING..."
+
+# ----- DRESSER ------
+dresser_ap_bluetitle = "Archipelago Blue"
+dresser_ap_blue = "Rep your favourite randomiser"
+dresser_ap_colortitle = "Archipelago Multicolor"
+dresser_ap_color = "Rep your favourite randomiser"
+dresser_ap_antontitle = "Anton Cook"
